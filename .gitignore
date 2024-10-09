@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+
 dist-ssr
 *.local
 
@@ -22,15 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-src/style.scss
-src/App.css
-src/index.css
-public
-assets
-src/components/State.jsx
-src/components/LoginPage.jsx
-src/components/index.jsx
-src/components/FunctionalComponent.jsx
-src/components/EventHandeler.jsx
 
